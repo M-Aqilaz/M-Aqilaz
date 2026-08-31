@@ -40,9 +40,6 @@ AI-powered learning platform — users upload material, get AI summaries, tutor 
 ### [InterSelf](https://github.com/M-Aqilaz/InterSelf)
 Gamified self-improvement app (Next.js 16 + React 19 + Prisma). Tasks, streaks, achievements, boss battles, friends, and leaderboard with JWT auth.
 
-### [Mobile Course](https://github.com/M-Aqilaz/244107020128-mobile-course)
-16-week Flutter mobile development portfolio — one documented project per week with code, tests, and screenshots.
-
 ## Currently Deepening
 ML/AI engineering fundamentals and data workflows — applying them to the products above.
 
