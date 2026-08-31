@@ -11,8 +11,5 @@ Software Engineering student & aspiring AI/ML engineer. Building web apps and le
 - **[Nalarin.ai](https://github.com/M-Aqilaz/Nalarin.ai)** — AI chatbot web app
 - **[InterSelf](https://github.com/M-Aqilaz/InterSelf)** — Company profile web app (Intercomp)
 
-## Goals
-Magang luar negeri via AIESEC, then grow as AI + Software Engineer. Always learning.
-
 ## Connect
 - GitHub: [@M-Aqilaz](https://github.com/M-Aqilaz)
