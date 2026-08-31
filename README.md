@@ -8,8 +8,8 @@ Software Engineering student & aspiring AI/ML engineer. Building web apps and le
 - Learning AI, ML, and data engineering for the long run
 
 ## Pinned work
-- **[Nalarin.ai](https://github.com/M-Aqilaz/Nalarin.ai)** — AI chatbot web app
-- **[InterSelf](https://github.com/M-Aqilaz/InterSelf)** — Company profile web app (Intercomp)
+- **[Nalarin.ai](https://github.com/M-Aqilaz/Nalarin.ai)** — AI learning platform
+- **[InterSelf](https://github.com/M-Aqilaz/InterSelf)** — Gamified self-improvement app
 
 ## Connect
 - GitHub: [@M-Aqilaz](https://github.com/M-Aqilaz)
