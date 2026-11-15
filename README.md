@@ -42,16 +42,6 @@ Informatics Engineering student at **Politeknik Negeri Malang** specializing in 
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://github.com/M-Aqilaz">
-    <img src="https://streak-stats.demolab.com/?user=M-Aqilaz&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <sub>Feel free to reach out for collaborations or project discussions!</sub>
 </p>
