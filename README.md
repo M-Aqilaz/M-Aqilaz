@@ -2,6 +2,10 @@
 
 # Hi there, I'm Muhammad Aqil Azami 👋
 
+<!-- Cute Anime Accent -->
+<img src="https://raw.githubusercontent.com/M-Aqilaz/M-Aqilaz/main/assets/anime.gif" alt="Cute Anime" width="380" />
+<br/><br/>
+
 <a href="https://m-aqilaz.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Full-Stack+Web+Developer;Laravel+%7C+Next.js+%7C+TypeScript;AI+%2F+ML+%26+Automation+Enthusiast;Politeknik+Negeri+Malang" alt="Typing SVG" />
 </a>
@@ -38,6 +42,18 @@ Informatics Engineering student at **Politeknik Negeri Malang** specializing in 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,python,flask,nextjs,react,ts,tailwind,mysql,postgres,prisma,postman,git,github" alt="Skills" />
   </a>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-Aqilaz/M-Aqilaz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-Aqilaz/M-Aqilaz/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/M-Aqilaz/M-Aqilaz/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---
